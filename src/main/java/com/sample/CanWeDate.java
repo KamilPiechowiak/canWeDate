@@ -5,7 +5,6 @@ import org.kie.api.runtime.KieContainer;
 import org.kie.api.runtime.KieSession;
 
 public class CanWeDate {
-
     public static final void main(String[] args) {
         try {
             // load up the knowledge base
